@@ -25,7 +25,7 @@ Projemizin backend kısmını javascript, frontend kısmını html ile oluşturd
 **SİTEMİZE ULAŞMAK İÇİN** [**TIKLAYINIZ**](http://neta-mobys.epizy.com/)
 
 
-**PROJEMİZİN TANITIM VİDEOSU İÇİN** [**TIKLAYINIZ**]([https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA](https://www.youtube.com/watch?v=Z5WeWj7cDJI&list=PLL002A1n9GDxbRjLbOKiGbn0AFPl_4HZf&index=4))
+**PROJEMİZİN TANITIM VİDEOSU İÇİN** [**TIKLAYINIZ**](https://www.youtube.com/watch?v=Z5WeWj7cDJI&list=PLL002A1n9GDxbRjLbOKiGbn0AFPl_4HZf&index=4)
 
 
 **PROJE EĞİTİM MODELİ İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
